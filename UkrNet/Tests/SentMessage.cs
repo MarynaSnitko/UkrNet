@@ -19,7 +19,7 @@ namespace UkrNet.Tests
 
             EmailPage emailPage = new EmailPage(driver);
 
-            var destinationMessage = "maryna.snitko@gmail.com";
+            var destinationMessage = "terraco_kiev@ukr.net";
             var themeMessage = "Sending message - test";
             var bodyMessage = "Hello, Andrey! From Maryna Snitko";
 
